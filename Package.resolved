@@ -1,0 +1,15 @@
+{
+  "originHash" : "546d7219679d5cdd1806954227049707f68a177742e18e916a17a47680b69a8d",
+  "pins" : [
+    {
+      "identity" : "swift-core-graphics-extras",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/whutao/swift-core-graphics-extras",
+      "state" : {
+        "revision" : "0d3b0b8783ed0b06c7d0382e3a9cd9f2298736ed",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
